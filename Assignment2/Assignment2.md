@@ -1,0 +1,1 @@
+This assignment was made to tlearn how long a training need to execute. The test was made on colab and it took 12 hours to complete 400 epochs. The code was taken from the last modification on the following link https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-cifar-10-photo-classification/
